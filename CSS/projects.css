@@ -1,0 +1,12 @@
+html {
+    background-color: rgb(168, 212, 152);
+}
+
+header {
+    background-image: url(../imgs/Github.png);
+
+    background-size: cover;
+    background-position: center;
+
+    position: bottom;
+}
