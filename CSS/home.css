@@ -1,0 +1,14 @@
+html {
+    background-color: rgb(73, 70, 63);
+}
+
+header .image {
+    background-image: url("imgs/home_topper.JPG");
+    min-height: 350px;
+    margin-bottom: 10px;
+
+    background-size: cover;
+    background-position: center;
+
+    position: relative;
+}
