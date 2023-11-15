@@ -1,0 +1,28 @@
+html {
+    background-color: white;
+}
+
+header {
+    background-image: url(../imgs/marioclone.jpg);
+    min-height: 500px;
+    margin-bottom: 10px;
+
+    background-size: cover;
+    background-position: center;
+
+    position: relative;
+}
+
+.container {
+    position: absolute;
+    width: auto;
+    margin: 0px 150px;
+}
+
+p {
+    color: black;
+    position: absolute;
+    text-align: center;
+    float: center;
+    margin: 0px 500px;
+}

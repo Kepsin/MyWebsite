@@ -1,7 +1,9 @@
 .navbar {
-    background-color: black;
+    background-color: gray;
     background-size: cover;
     overflow: hidden;
+    border-style: solid;
+    border-color: black;
 }
 
 .navbar a {
