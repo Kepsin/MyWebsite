@@ -3,8 +3,7 @@ html {
 }
 
 header .container {
-    background-image: url(../imgs/banner.png);
-    min-height: 500px;
+    min-height: 80px;
     background-size: cover;
     background-position: center;
 

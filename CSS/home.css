@@ -1,20 +1,27 @@
 html {
-    background-color: white;
-}
-
-header {
-    background-image: url(../imgs/home_topper.JPG);
-    min-height: 500px;
-    margin-bottom: 10px;
-
-    background-size: cover;
-    background-position: center;
-
+    background-color: whitesmoke;
     position: relative;
 }
 
-.container {
-    position: absolute;
-    width: auto;
-    margin: 0px 150px;
+header {
+    min-height: 80px;
 }
+
+.rightbox {
+    margin-top: 250px;
+    margin-right: 250px;
+    padding: 40px;
+    float: right;
+    color: black;
+    background-color: green;
+    box-shadow: 10px 4px 8px 5px rgba(0,0,0,0.2);
+    font-family: fantasy;
+
+}
+
+.rightbox h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+
