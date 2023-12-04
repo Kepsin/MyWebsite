@@ -1,0 +1,39 @@
+html {
+    background-color: whitesmoke;
+    position: relative;
+}
+
+header {
+    min-height: 80px;
+}
+
+.rightbox {
+    width: 500px;
+    margin-top: 250px;
+    margin-left: 100px;
+    padding: 40px;
+    float: left;
+    color: black;
+    background-color: green;
+    box-shadow: 0 5px 5px 5px rgba(0,0,0,0.2);
+    font-family: fantasy;
+}
+
+.rightbox h3 {
+    text-align: left;
+    text-decoration: underline;
+}
+
+.pic {
+    float: right;
+    margin-top: 250px;
+    margin-right: 100px;
+    box-shadow: 0 5px 5px 5px rgba(0,0,0,0.2);
+}
+
+.pic img {
+    width: 450px;
+
+}
+
+
