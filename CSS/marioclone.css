@@ -2,26 +2,19 @@ html {
     background-color: white;
 }
 
-header {
-    min-height: 500px;
-    margin-bottom: 10px;
-
-    background-size: cover;
-    background-position: center;
-
-    position: relative;
-}
-
-.container {
-    position: absolute;
-    width: auto;
-    margin: 0px 150px;
-}
-
-p {
+.rightbox {
+    margin-top: 250px;
+    margin-right: 250px;
+    padding: 40px;
+    float: right;
     color: black;
-    position: absolute;
+    background-color: green;
+    box-shadow: 10px 4px 8px 5px rgba(0,0,0,0.2);
+    font-family: fantasy;
+
+}
+
+.rightbox h3 {
     text-align: center;
-    float: center;
-    margin: 0px 500px;
+    text-decoration: underline;
 }
